@@ -1,0 +1,24 @@
+.empty {
+  text-align: center;
+  padding: 100px 0;
+}
+
+.empty img {
+  width: 200px;
+}
+
+.empty p {
+  padding: 10px 0;
+  color: #555;
+}
+
+.empty-link {
+  display: inline-block;
+  padding: 12px 25px;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  text-decoration: none;
+  margin-top: 6px;
+}
